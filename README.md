@@ -15,7 +15,7 @@ I've been learning to code since end of 2022. I studied Python for short period 
 *   ⚡  'JavaScript is the easiest language', they said 😅😅...
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,nodejs,express,postgres,prisma)](https://skillicons.dev)
 
 ### Socials
                   
